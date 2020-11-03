@@ -1,6 +1,6 @@
 {
     "label": "Native American Authors",
-    "description": "Decolonize your bookshelf with these books by Native American Authors",
+    "description": "Books by Native American Authors.",
     "list": [
 {
 "label":"Abandon me : memoirs",
@@ -11,7 +11,6 @@
 {
 "label":"An indigenous peoples' history of the United States",
 "isbns": [
-"9780807000403",
 "9780807049396"
 ]
 },
@@ -25,15 +24,13 @@
 "label":"Cherokee America",
 "isbns": [
 "9781328494221",
-"9781328494238",
-"9780358116691"
+"9781328494238"
 ]
 },
 {
 "label":"Code Talker",
 "isbns": [
-"9780803729216",
-"9781429462938"
+"9780803729216"
 ]
 },
 {
@@ -50,12 +47,6 @@
 ]
 },
 {
-"label":"Custer died for your sins : an Indian manifesto",
-"isbns": [
-"9780806121291"
-]
-},
-{
 "label":"Flight : a novel",
 "isbns": [
 "9780802170378"
@@ -65,8 +56,7 @@
 "label":"Future home of the living god : a novel",
 "isbns": [
 "9780062694058",
-"9780062742384",
-"9780062694072"
+"9780062742384"
 ]
 },
 {
@@ -79,13 +69,6 @@
 "label":"Lakota woman",
 "isbns": [
 "9780802111012"
-]
-},
-{
-"label":"Love medicine",
-"isbns": [
-"9780060975548",
-"9780030706110"
 ]
 },
 {
@@ -106,7 +89,6 @@
 "isbns": [
 "9781432846527",
 "9781501126062",
-"9781508236139",
 "9781508236146"
 ]
 },
@@ -114,10 +96,7 @@
 "label":"The absolutely true diary of a part-time Indian",
 "isbns": [
 "9780316013680",
-"9781428182974",
-"9780316280372",
-"9781456103521",
-"9780316013697"
+"9781456103521"
 ]
 },
 {
@@ -137,8 +116,7 @@
 {
 "label":"The plague of doves",
 "isbns": [
-"9780060515126",
-"9781436107242"
+"9780060515126"
 ]
 },
 {
